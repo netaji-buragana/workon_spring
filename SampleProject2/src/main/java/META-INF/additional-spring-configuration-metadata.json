@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "management.endpoint.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoint.web.exposure.include'"
+  },
+  {
+    "name": "application-dev.properties",
+    "type": "java.lang.String",
+    "description": "A description for 'application-dev.properties'"
+  },
+  {
+    "name": "management.endpoint.env.show-values",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoint.env.show-values'"
+  },
+  {
+    "name": "anagement.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'anagement.endpoints.web.exposure.include'"
+  }
+]}{
+    "name": "anagement.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'anagement.endpoints.web.exposure.include'"
+  }
+]}{
+    "name": "anagement.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'anagement.endpoints.web.exposure.include'"
+  }
+]}{
+    "name": "anagement.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'anagement.endpoints.web.exposure.include'"
+  }
+]}

@@ -1,0 +1,60 @@
+@charset "ISO-8859-1";
+
+.form-group1 {
+  margin: 30px auto;
+  width: 100%;
+  height: 150px;
+
+ 
+}
+
+
+.form-control1 {
+  float: left;
+  margin: 3px 3px;
+}
+
+#inputStreet {
+  width: 80%;
+}
+
+
+
+.details.field.grpinput{
+	width: 40%;
+}
+
+#inputhalf1{
+    width: 40%;
+}
+
+#inputhalf2{
+    width: 40%;
+}
+
+
+#inputCity {
+  width: 40%;
+}
+
+#inputState {
+  width: 40%;
+}
+
+#inputZip {
+  width: 28%;
+}
+
+#inputCounty {
+  width: 45%;
+}
+
+#inputCountry {
+  width: 50%;
+}
+
+
+.form-controle {
+  width: 50%;
+  padding-top: 2%;
+}
